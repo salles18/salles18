@@ -29,8 +29,4 @@
     </a>
    
 </div>
-    
   
- 
-
-![Snake animation](https://github.com/salles18/salles18/blob/output/github-contribution-grid-snake.svg)
