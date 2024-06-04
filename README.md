@@ -1,4 +1,4 @@
-## Meu nome é João, Sou dev Junior!
+## Meu nome é João, Sou dev Full-Stack Junior!
 
 <div>
   
