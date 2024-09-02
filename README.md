@@ -69,6 +69,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/salles18/salles18/output/snake.svg" alt="Snake animation" />
+
 
 ###
