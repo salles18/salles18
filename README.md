@@ -1,4 +1,4 @@
-<h2 align="left">Olá, me chamo João Salles e sou Desenvolvedor Full-Stack!</h2>
+<h1 align="left">Olá, me chamo João Salles e sou Desenvolvedor Full-Stack!</h2>
 
 ###
 
